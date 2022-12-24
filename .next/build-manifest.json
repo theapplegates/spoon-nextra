@@ -1,34 +1,74 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
-  "ampDevFiles": [
-    "static/chunks/webpack.js",
-    "static/chunks/amp.js"
-  ],
+  "devFiles": [],
+  "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/hFPvvkthh5FUShvoX5f4O/_buildManifest.js",
+    "static/hFPvvkthh5FUShvoX5f4O/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-d5f8ed288849d546.js",
+      "static/chunks/main-19a0ea7b0e4902f6.js",
+      "static/css/06954d6e3ee0f9bb.css",
+      "static/chunks/950-b24d160cba33fbc3.js",
+      "static/chunks/pages/index-11c3779b0080583f.js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_app.js"
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-d5f8ed288849d546.js",
+      "static/chunks/main-19a0ea7b0e4902f6.js",
+      "static/chunks/pages/_app-85c5e0a3095e9b1a.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-d5f8ed288849d546.js",
+      "static/chunks/main-19a0ea7b0e4902f6.js",
+      "static/chunks/pages/_error-f95c3421476910e7.js"
+    ],
+    "/posts": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-d5f8ed288849d546.js",
+      "static/chunks/main-19a0ea7b0e4902f6.js",
+      "static/css/06954d6e3ee0f9bb.css",
+      "static/chunks/950-b24d160cba33fbc3.js",
+      "static/chunks/pages/posts-cf0255aae064d73f.js"
+    ],
+    "/posts/aaron-swartz-a-programmable-web": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-d5f8ed288849d546.js",
+      "static/chunks/main-19a0ea7b0e4902f6.js",
+      "static/css/06954d6e3ee0f9bb.css",
+      "static/chunks/950-b24d160cba33fbc3.js",
+      "static/chunks/pages/posts/aaron-swartz-a-programmable-web-f98c6d5eb0fab94a.js"
+    ],
+    "/posts/code-blocks": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-d5f8ed288849d546.js",
+      "static/chunks/main-19a0ea7b0e4902f6.js",
+      "static/css/06954d6e3ee0f9bb.css",
+      "static/chunks/950-b24d160cba33fbc3.js",
+      "static/chunks/pages/posts/code-blocks-49dfe0856e6ac705.js"
+    ],
+    "/posts/table": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-d5f8ed288849d546.js",
+      "static/chunks/main-19a0ea7b0e4902f6.js",
+      "static/css/06954d6e3ee0f9bb.css",
+      "static/chunks/950-b24d160cba33fbc3.js",
+      "static/chunks/pages/posts/table-a6b3ad2f43759716.js"
+    ],
+    "/tags/[tag]": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-d5f8ed288849d546.js",
+      "static/chunks/main-19a0ea7b0e4902f6.js",
+      "static/css/06954d6e3ee0f9bb.css",
+      "static/chunks/950-b24d160cba33fbc3.js",
+      "static/chunks/pages/tags/[tag]-430d7c3de0551a6a.js"
     ]
   },
   "ampFirstPages": []
